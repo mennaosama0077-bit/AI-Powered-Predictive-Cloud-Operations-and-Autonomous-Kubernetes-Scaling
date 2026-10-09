@@ -1,0 +1,2 @@
+# AI-Powered-Predictive-Cloud-Operations-and-Autonomous-Kubernetes-Scaling
+An end-to-end cloud platform linking ML traffic prediction with proactive Kubernetes autoscaling. A FastAPI server forecasts load to scale pods before spikes hit. An AI Assistant consumes live metrics, logs, and alerts to troubleshoot incidents, recommend cost tweaks, and execute approved cluster actions with strict audit logs.
